@@ -1,0 +1,19 @@
+title: Another day as a developer - Learn at least one thing per day
+description: A collection of solutions for problems from my daily exeperiences
+author: Vincenzo Trapani
+github: https://github.com/trapvincenzo
+about: I'm web developer with 10 years of exeperience (almost with the LAMP stack and MEAN sometimes). I'm from Palermo (Sicily) and I live in London. I love learning new stuff everyday and my goal is to learn at least one new thing per day!
+urls:
+    - text: About Me
+      url: /about/
+    - text: Github
+      url: https://github.com/trapvincenzo
+    - text: XML Feed
+      url: /feed.xml
+url: "https://trapvincenzo.github.io"
+baseurl: ""
+gems: [jekyll-paginate, jekyll-gist]
+paginate: 5
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
